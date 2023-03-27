@@ -1,5 +1,5 @@
 let nombre=prompt ("Cómo es tu nombre?")
-console.log
+console.log(nombre)
 function presupuesto (largo, ancho) {
 
 
